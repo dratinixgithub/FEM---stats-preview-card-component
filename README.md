@@ -29,6 +29,10 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ![](./ssDesktop.PNG)
 
+- (NEW) Middle device Version:
+
+![](./ssMid.PNG)
+
 
 ## My process
 

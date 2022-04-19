@@ -25,6 +25,10 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ![](./ssMobile.PNG)
 
+- (NEW) Middle device Version:
+
+![](./ssMid.PNG)
+
 - DESKTOP Version:
 
 ![](./ssDesktop.PNG)
@@ -47,6 +51,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Mid-Device version
 
 
 ## Author

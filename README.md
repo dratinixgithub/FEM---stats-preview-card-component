@@ -52,7 +52,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Author
 
-- Website - [Kimue](https://dratinixgithub.github.io/FEM---qr-code-component/)
+- Website - [Kimue](https://dratinixgithub.github.io/FEM---stats-preview-card-component)
 - Frontend Mentor - [@dratinixgithub](https://www.frontendmentor.io/profile/dratinixgithub)
 
 
